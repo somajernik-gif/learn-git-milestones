@@ -228,7 +228,7 @@ Step | Description | Completed
 2-2 | Link to `commit #1 from Github.com`| https://github.com/somajernik-gif/learn-git-milestones/commit/2254dd5649a2c7995fea5cf4cee093b20bf5b45a 
 2-3 | Link to markdown tables docs | https://www.markdownguide.org/extended-syntax/
 2-4 | What does `log` do? | git log shows the history of commits made in a Git repository, including the author, date, and commit message.
-3-1 | 2nd Favorite emoji |
+3-1 | 2nd Favorite emoji | 🥰
 3-2 | Link to `commit #2 from Github Desktop` |
 4-1 | Full path to your working directory |
 4-2 | Link to `commit #3 from CLI` |

@@ -231,7 +231,7 @@ Step | Description | Completed
 3-1 | 2nd Favorite emoji | 🥰
 3-2 | Link to `commit #2 from Github Desktop` | https://github.com/somajernik-gif/learn-git-milestones/commit/135bf7d120cefff3772af00cd18cc825f4a4aa20
 4-1 | Full path to your working directory |/Users/sophiemajernik/Documents/GitHub/learn-git-milestones
-4-2 | Link to `commit #3 from CLI` |
+4-2 | Link to `commit #3 from CLI` | https://github.com/somajernik-gif/learn-git-milestones/commit/973e60e34d7d30557411201eb2fb504e2128d3f4
 5-1 | Link to `first-website` github.com repo page |
 6-1 | Link to `first-website` github.io "project site" |
 

@@ -230,7 +230,7 @@ Step | Description | Completed
 2-4 | What does `log` do? | git log shows the history of commits made in a Git repository, including the author, date, and commit message.
 3-1 | 2nd Favorite emoji | 🥰
 3-2 | Link to `commit #2 from Github Desktop` | https://github.com/somajernik-gif/learn-git-milestones/commit/135bf7d120cefff3772af00cd18cc825f4a4aa20
-4-1 | Full path to your working directory |
+4-1 | Full path to your working directory |/Users/sophiemajernik/Documents/GitHub/learn-git-milestones
 4-2 | Link to `commit #3 from CLI` |
 5-1 | Link to `first-website` github.com repo page |
 6-1 | Link to `first-website` github.io "project site" |
